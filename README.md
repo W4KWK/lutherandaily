@@ -13,9 +13,11 @@ This page provides support for the app.
 
 ## Get help
 
-**[Open a support request](https://github.com/W4KWK/lutherandaily/issues/new)**
+**Email:** [objects.36.scuba@icloud.com](mailto:objects.36.scuba@icloud.com?subject=Lutheran%20Daily%20Readings%20Support)
 
-Describe what happened, the date you were viewing, and your device and system version (for example, "iPhone, iOS 27.0"). If a reading looks wrong, include the date and what you expected to see. A free GitHub account is required to open a request.
+**Or:** [open a support request on GitHub](https://github.com/W4KWK/lutherandaily/issues/new) (requires a free GitHub account)
+
+Describe what happened, the date you were viewing, and your device and system version (for example, "iPhone, iOS 27.0"). If a reading looks wrong, include the date and what you expected to see.
 
 You can also browse [existing requests](https://github.com/W4KWK/lutherandaily/issues?q=is%3Aissue) to see whether your question has already been answered.
 
@@ -82,7 +84,7 @@ Lutheran Daily Readings does not collect, store, or share any personal informati
 - **Reminders are local.** Daily reminders are scheduled by your device. No push notification service is used.
 - **Links to other apps and websites.** When you open a reading or a hymn recording, the app hands that link to another app or website (such as YouVersion or Bible Gateway). Those services have their own privacy policies.
 
-If this policy changes, the updated version will be posted on this page. Questions about privacy can be submitted through a [support request](https://github.com/W4KWK/lutherandaily/issues/new).
+If this policy changes, the updated version will be posted on this page. Questions about privacy can be sent to [objects.36.scuba@icloud.com](mailto:objects.36.scuba@icloud.com).
 
 ---
 
